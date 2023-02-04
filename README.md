@@ -8,33 +8,33 @@ Repositórios de portifólio: <a href="https://github.com/jhonat4?tab=repositori
 Skills mais atuais:
 ```javascript
     let languages = {
-      javascript: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      java: ['🔴🟠🟡 60% UPDATED 🟨', 60],
-      delphi: ['🔴🟠 40% UPDATED 🟧', 40],
+      javascript: ['🔵 100% UPDATED', 100],
+      java: ['🟡 60% UPDATED', 60],
+      delphi: ['🟠 40% UPDATED', 40],
     };
 
     let frameworks = {
-      node: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      react: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      react_native: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
+      node: ['🔵 100% UPDATED', 100],
+      react: ['🔵 100% UPDATED', 100],
+      react_native: ['🔵 100% UPDATED', 100],
     };
 
     let databases = {
-      mysql: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      postgresql: ['🔴🟠🟡🟢 80% UPDATED 🟩', 80],
-      mongodb: ['🔴🟠🟡🟢 80% UPDATED 🟩', 80],
+      mysql: ['🔵 100% UPDATED', 100],
+      postgresql: ['🟢 80% UPDATED', 80],
+      mongodb: ['🟢 80% UPDATED', 80],
     };
 
     let layout = {
-      html: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      css: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      material_ui: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
-      react_native_paper: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
+      html: ['🔵 100% UPDATED', 100],
+      css: ['🔵 100% UPDATED', 100],
+      material_ui: ['🔵 100% UPDATED', 100],
+      react_native_paper: ['🔵 100% UPDATED', 100],
     }
 
     let production = {
-      git: ['🔴🟠🟡🟢 80% UPDATED 🟩', 80],
-      digital_ocean: ['🔴🟠🟡🟢🔵 100% UPDATED 🟦', 100],
+      git: ['🟢 80% UPDATED', 80],
+      digital_ocean: ['🔵 100% UPDATED', 100],
     }
 ```
 
