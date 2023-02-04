@@ -29,5 +29,5 @@ Repositório de portifólio: <a href="https://github.com/jhonat4?tab=repositorie
   <a href="https://www.linkedin.com/in/jhonata-cabral-309b0910b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
