@@ -7,8 +7,6 @@ Repositório de portifólio: <a href="https://github.com/jhonat4?tab=repositorie
 
 ![Estatísticas do GitHub de Jhonata Cabral](https://github-readme-stats.vercel.app/api?username=jhonat4&show_icons=true&theme=tokyonight)
 
-![Linguagens utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonat4&layout=compact&theme=tokyonight)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhon-Node" height="30" width="40" src="https://github.com/railwayapp/devicons/blob/main/static/i/nodejs.svg">
