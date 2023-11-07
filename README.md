@@ -3,7 +3,7 @@ Atualmente trabalho remotamente como desenvolvedor utilizando Javascript, com os
 Deixarei aqui alguns repositórios de portifólio, contendo projetos simples, mas que possam mostrar minimamente os meus conhecimentos. Para mais detalhes, explicações e visualização de projetos reais (em produção) que já desenvolvi ou participei, favor entrar em contato por algumas das redes listadas ao final.
 Bem vindo ao meu mundo!
 
-Repositórios de portifólio: <a href="https://github.com/jhonat4?tab=repositories" target="_blank"><img align="center" alt="Jhon-Js" height="40" width="40" src="https://user-images.githubusercontent.com/60119528/216686002-a6314359-8f8e-438e-a602-20290982aec5.png"></a> <- só clicar 😁
+Repositórios de portifólio: <a href="https://github.com/jhonat4?tab=repositories" target="_blank"><img align="center" alt="Jhon-Js" height="40" width="40" src="https://user-images.githubusercontent.com/60119528/216686002-a6314359-8f8e-438e-a602-20290982aec5.png"></a> <- só clicar 😁 OBS: Estou reestruturando e atualizando os repositórios, em breve estarão disponíveis normalmente.
 
 Skills mais atuais:
 ```javascript
