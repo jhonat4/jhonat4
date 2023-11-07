@@ -1,4 +1,4 @@
-## Olá, eu sou o Jhonata Cabral, dev fullstack multiplataforma (backend, frontend e mobile)!
+## Olá, eu sou o Jhonata Cabral, dev fullstack multiplataforma (backend, frontend e mobile).
 Atualmente trabalho remotamente como desenvolvedor utilizando Javascript, com os frameworks: Node.js, React e React Native.
 Deixarei aqui alguns repositórios de portifólio, contendo projetos simples, mas que possam mostrar minimamente os meus conhecimentos. Para mais detalhes, explicações e visualização de projetos reais (em produção) que já desenvolvi ou participei, favor entrar em contato por algumas das redes listadas ao final.
 Bem vindo ao meu mundo!
